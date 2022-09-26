@@ -1,0 +1,6 @@
+Node function:
+f = b c' d + b c d f e + b c + d 
+h = a + f' 
+i = e f g' + e' f' g 
+j = i' 
+END
