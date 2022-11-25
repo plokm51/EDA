@@ -1,0 +1,8 @@
+Node function:
+11GAT(5) = ( 3GAT(2) 6GAT(3) )'
+10GAT(6) = ( 1GAT(0) 3GAT(2) )'
+19GAT(7) = ( 11GAT(5) 7GAT(4) )'
+16GAT(8) = ( 2GAT(1) 11GAT(5) )'
+23GAT(9) = ( 16GAT(8) 19GAT(7) )'
+22GAT(10) = ( 10GAT(6) 16GAT(8) )'
+END

@@ -1,0 +1,15 @@
+1.先搞懂怎麼run
+
+makefile行不通
+espresso -help也不行// 要用make --help //some instruction still can not use
+
+tracing code input and output 找到之後先make clean 再make執行然後讀檔
+google
+
+make [options] [target]...
+
+讀懂5OCTTOOLS(這個是測資內部的參數)
+
+ [d] denotes a decimal number and [s] denotes a text string
+
+讀懂1OCTOOLS(Command_espresso.pdf)

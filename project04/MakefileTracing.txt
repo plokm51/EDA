@@ -1,0 +1,2 @@
+So put SHELL := /bin/bash at the top of your makefile, and you should be good to go
+
